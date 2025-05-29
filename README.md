@@ -1,4 +1,4 @@
-# MongoDB Consultas e Comandos Essenciais
+# MongoDB Consultas e Comandos Essenciais - ShowBank
 
 Este repositório contém uma coletânea de consultas, comandos e exemplos de operações realizadas no MongoDB. 
 
